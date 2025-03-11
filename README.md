@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank S. Daksh</h1>
 <h3 align="center">A passionate Software Developer from India, Currently a 2nd year B.Tech Student.</h3>
-<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHllYzdrNW5nNTAyc3BiNmQ0aHprMmVseDNkYjkzZWJ6OXNtcHY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBqNlzr8VrqHmYkR3/giphy.gif" width = "450" align = "right" alt = "">
+![giphy](https://github.com/user-attachments/assets/038ed4ac-4354-46e2-8b05-94d14d334420)
+
 <p align="left"> <a href="https://twitter.com/mayanksensie" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksensie?logo=twitter&style=for-the-badge" alt="mayanksensie" /></a> </p>
 
 - 🌱 I’m currently learning **Framework, HTML, AI/Ml, DSA**
