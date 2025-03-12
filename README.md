@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank S. Daksh</h1>
 <h3 align="center">A passionate Software Developer from India, Currently a 2nd year B.Tech Student.</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ietYfzXVOLUAAAAd/hatsune-miku-cute.gif">
 
 <p align="left"> <a href="https://twitter.com/mayanksensie" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksensie?logo=twitter&style=for-the-badge" alt="mayanksensie" /></a> </p>
 
