@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://x.com/mayanksensie](https://x.com/mayanksensie)
 
-- 💬 Ask me about **Python, Java, JavaScript, C, C++, MySL**
+- 💬 Ask me about **Python, Java, JavaScript, C, C++, MySQL**
 
 - 📫 How to reach me **mayanksensie@gmail.com**
 
