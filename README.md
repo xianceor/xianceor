@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank S. Daksh</h1>
-<h3 align="center">A passionate Software Developer from India, Currently perusing My career in Computer Science 💻.</h3>
+<h3 align="center">A passionate Software Developer from India, Currently pursuing My career in Computer Science 💻.</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/ietYfzXVOLUAAAAd/hatsune-miku-cute.gif">
 
 <p align="left"> <a href="https://twitter.com/mayanksensie" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksensie?logo=twitter&style=for-the-badge" alt="mayanksensie" /></a> </p>
