@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mayank S. Daksh</h1>
+<h1 align="center">Hi, I'm Mayank S. Daksh</h1>
 <h3 align="center">A passionate Software Developer from India, Currently pursuing My career in Computer Science 💻.</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/ietYfzXVOLUAAAAd/hatsune-miku-cute.gif">
 
 <p align="left"> <a href="https://twitter.com/mayanksensie" target="blank"><img src="https://img.shields.io/twitter/follow/mayanksensie?logo=twitter&style=for-the-badge" alt="mayanksensie" /></a> </p>
 
-- 🌱 I’m currently learning **Framework, HTML, AI/Ml, DSA**
+-  I’m currently learning **Framework, HTML, AI/Ml, DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mayank-s-daksh-709034346/](https://www.linkedin.com/in/mayank-s-daksh-709034346/)
+-  All of my projects are available at [https://www.linkedin.com/in/mayank-s-daksh-709034346/](https://www.linkedin.com/in/mayank-s-daksh-709034346/)
 
-- 📝 I regularly write articles on [https://x.com/mayanksensie](https://x.com/mayanksensie)
+-  I regularly write articles on [https://x.com/mayanksensie](https://x.com/mayanksensie)
 
-- 💬 Ask me about **Python, Java, JavaScript, C, C++, MySQL**
+-  Ask me about **Python, Java, JavaScript, C, C++, MySQL**
 
-- 📫 How to reach me **mayanksensie@gmail.com**
+-  How to reach me **mayanksensie@gmail.com**
 
-- ⚡ Fun fact **I own major skills in Mechanical Engineering.**
+-  Fun fact **I own major skills in Mechanical Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
